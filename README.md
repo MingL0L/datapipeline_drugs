@@ -72,7 +72,10 @@ And we will name the final model **mention_records**, it contains following attr
  * `journal` = journal name
  
  ### Step 3: Run ETL to Model the Data
- 
+ Run the etl.py, and you will get **mention_records.json** in the datalake folder.
+ ```
+ python etl.py
+ ```
  ### Step 4: Traitement ad-hoc
  - Question: Which journal has mentioned the most different drugs?
  - The answer is "Psychopharmacology"
