@@ -1,0 +1,128 @@
+[
+  {
+    "atccode": "A04AD",
+    "drug": "diphenhydramine",
+    "id": "1",
+    "title": "a 44-year-old man with erythema of the face diphenhydramine, neck, and chest, weakness, and palpitations",
+    "date": "2019-01-01",
+    "journal": "Journal of emergency nursing",
+    "publication": "PubMed"
+  },
+  {
+    "atccode": "A04AD",
+    "drug": "diphenhydramine",
+    "id": "2",
+    "title": "an evaluation of benadryl, pyribenzamine, and other so-called diphenhydramine antihistaminic drugs in the treatment of allergy.",
+    "date": "2019-01-01",
+    "journal": "Journal of emergency nursing",
+    "publication": "PubMed"
+  },
+  {
+    "atccode": "A04AD",
+    "drug": "diphenhydramine",
+    "id": "3",
+    "title": "diphenhydramine hydrochloride helps symptoms of ciguatera fish poisoning.",
+    "date": "2019-01-02",
+    "journal": "The Journal of pediatrics",
+    "publication": "PubMed"
+  },
+  {
+    "atccode": "S03AA",
+    "drug": "tetracycline",
+    "id": "4",
+    "title": "tetracycline resistance patterns of lactobacillus buchneri group strains.",
+    "date": "2020-01-01",
+    "journal": "Journal of food protection",
+    "publication": "PubMed"
+  },
+  {
+    "atccode": "S03AA",
+    "drug": "tetracycline",
+    "id": "5",
+    "title": "appositional tetracycline bone formation rates in the beagle.",
+    "date": "2020-01-02",
+    "journal": "American journal of veterinary research",
+    "publication": "PubMed"
+  },
+  {
+    "atccode": "S03AA",
+    "drug": "tetracycline",
+    "id": "6",
+    "title": "rapid reacquisition of contextual fear following extinction in mice: effects of amount of extinction, tetracycline acute ethanol withdrawal, and ethanol intoxication.",
+    "date": "2020-01-01",
+    "journal": "Psychopharmacology",
+    "publication": "PubMed"
+  },
+  {
+    "atccode": "V03AB",
+    "drug": "ethanol",
+    "id": "6",
+    "title": "rapid reacquisition of contextual fear following extinction in mice: effects of amount of extinction, tetracycline acute ethanol withdrawal, and ethanol intoxication.",
+    "date": "2020-01-01",
+    "journal": "Psychopharmacology",
+    "publication": "PubMed"
+  },
+  {
+    "atccode": "A01AD",
+    "drug": "epinephrine",
+    "id": "7",
+    "title": "the high cost of epinephrine autoinjectors and possible alternatives.",
+    "date": "2020-02-01",
+    "journal": "The journal of allergy and clinical immunology. In practice",
+    "publication": "PubMed"
+  },
+  {
+    "atccode": "A01AD",
+    "drug": "epinephrine",
+    "id": "8",
+    "title": "time to epinephrine treatment is associated with the risk of mortality in children who achieve sustained rosc after traumatic out-of-hospital cardiac arrest.",
+    "date": "2020-03-01",
+    "journal": "The journal of allergy and clinical immunology. In practice",
+    "publication": "PubMed"
+  },
+  {
+    "atccode": "A04AD",
+    "drug": "diphenhydramine",
+    "id": "NCT04237091",
+    "title": "feasibility of a randomized controlled clinical trial comparing the use of cetirizine to replace diphenhydramine in the prevention of reactions related to paclitaxel",
+    "date": "2020-01-01",
+    "journal": "Journal of emergency nursing",
+    "publication": "clinical trials"
+  },
+  {
+    "atccode": "R01AD",
+    "drug": "betamethasone",
+    "id": "NCT04153396",
+    "title": "preemptive infiltration with betamethasone and ropivacaine for postoperative pain in laminoplasty or \\xc3\\xb1 laminectomy",
+    "date": "2020-01-01",
+    "journal": "H\u00f4pitaux Universitaires de Gen\u00e8ve",
+    "publication": "clinical trials"
+  },
+  {
+    "atccode": "A04AD",
+    "drug": "diphenhydramine",
+    "id": "NCT01967433",
+    "title": "use of diphenhydramine as an adjunctive sedative for colonoscopy in patients chronically on opioids",
+    "date": "2020-01-01",
+    "journal": "Journal of emergency nursing",
+    "publication": "clinical trials"
+  },
+  {
+    "atccode": "A04AD",
+    "drug": "diphenhydramine",
+    "id": "NCT04189588",
+    "title": "phase 2 study iv quzyttir\u2122 (cetirizine hydrochloride injection) vs v diphenhydramine",
+    "date": "2020-01-01",
+    "journal": "Journal of emergency nursing",
+    "publication": "clinical trials"
+  },
+  {
+    "atccode": "A01AD",
+    "drug": "epinephrine",
+    "id": "NCT04188184",
+    "title": "tranexamic acid versus epinephrine during exploratory tympanotomy",
+    "date": "2020-04-27",
+    "journal": "Journal of emergency nursing\\xc3\\x28",
+    "publication": "clinical trials"
+  }
+]
