@@ -98,6 +98,6 @@ And we will name the final model **mention_records**, it contains following attr
 * What are the elements to consider in order to develop your code so that it can handle large volumes of data (files of several TB or millions of files for example)?
     - Use Spark cluster to parallelise calculations across multiple computers.
     - Use distributed storage system to enable a quick access to data over a large number of nodes. e.g. Hadoop HDFS, AWS S3, etc.
+    - Use Lake House achitecture instead of using traditional Data Warehouse or Data Lake.
     
-* Could you describe the changes that would need to be made, if any, to take into account such volumes? 
-![Tux, the Linux mascot](datalake.png)
+![Tux, the Linux mascot](lake house.png)
