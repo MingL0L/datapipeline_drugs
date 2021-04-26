@@ -100,4 +100,4 @@ And we will name the final model **mention_records**, it contains following attr
     - Use distributed storage system to enable a quick access to data over a large number of nodes. e.g. Hadoop HDFS, AWS S3, etc.
     - Use Lake House achitecture instead of using traditional Data Warehouse or Data Lake.
     
-![Tux, the Linux mascot](lake house.png)
+![Tux, the Linux mascot](lakehouse.png)
